@@ -1,0 +1,7 @@
+{
+  "name": "AEM POC Sample",
+  "description": "AEM POC Sample",
+  "repository": "https://github.com/Praveenpes087/aem-projects-poc",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["aem", "maven", "java"]
+}
